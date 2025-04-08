@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mi-app-manga/static/css/main.27b00c82.css",
+    "main.js": "/mi-app-manga/static/js/main.f9513567.js",
+    "static/js/453.f38e06b3.chunk.js": "/mi-app-manga/static/js/453.f38e06b3.chunk.js",
+    "index.html": "/mi-app-manga/index.html",
+    "main.27b00c82.css.map": "/mi-app-manga/static/css/main.27b00c82.css.map",
+    "main.f9513567.js.map": "/mi-app-manga/static/js/main.f9513567.js.map",
+    "453.f38e06b3.chunk.js.map": "/mi-app-manga/static/js/453.f38e06b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b00c82.css",
+    "static/js/main.f9513567.js"
+  ]
+}
