@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mi-app-manga/static/css/main.27b00c82.css",
-    "main.js": "/mi-app-manga/static/js/main.f9513567.js",
-    "static/js/453.f38e06b3.chunk.js": "/mi-app-manga/static/js/453.f38e06b3.chunk.js",
-    "index.html": "/mi-app-manga/index.html",
-    "main.27b00c82.css.map": "/mi-app-manga/static/css/main.27b00c82.css.map",
-    "main.f9513567.js.map": "/mi-app-manga/static/js/main.f9513567.js.map",
-    "453.f38e06b3.chunk.js.map": "/mi-app-manga/static/js/453.f38e06b3.chunk.js.map"
+    "main.css": "/MangaManager/static/css/main.68decfe7.css",
+    "main.js": "/MangaManager/static/js/main.25d535c9.js",
+    "static/js/453.f38e06b3.chunk.js": "/MangaManager/static/js/453.f38e06b3.chunk.js",
+    "index.html": "/MangaManager/index.html",
+    "main.68decfe7.css.map": "/MangaManager/static/css/main.68decfe7.css.map",
+    "main.25d535c9.js.map": "/MangaManager/static/js/main.25d535c9.js.map",
+    "453.f38e06b3.chunk.js.map": "/MangaManager/static/js/453.f38e06b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27b00c82.css",
-    "static/js/main.f9513567.js"
+    "static/css/main.68decfe7.css",
+    "static/js/main.25d535c9.js"
   ]
 }
